@@ -63,7 +63,7 @@ These libraries together provide a robust toolkit for data analysis, manipulatio
 ## plt.pie(category_counts, labels=category_counts.index, autopct='%1.1f%%')
 ## plt.show()
 
-# Pandas Functions and Methods
+# Pandas Dataframe Methods
 
 ## **DataFrame.info()**: Provides a concise summary of a DataFrame, including the number of non-null entries and data types for each column.
 ## *Usage*: data.info()
